@@ -1,0 +1,2 @@
+# LotteryRules
+I love you
